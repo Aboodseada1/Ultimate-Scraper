@@ -1,0 +1,26 @@
+# Core HTTP clients
+requests
+httpx
+
+# Cloudflare bypass support
+cloudscraper
+
+# HTML Parsing/Cleaning
+beautifulsoup4
+lxml
+
+# --- Optional Browser Automation ---
+
+# For Playwright method (--pp argument)
+# Note: Requires separate step: playwright install chromium
+playwright
+
+# For Selenium methods (--fp, --cp arguments)
+selenium
+
+# For automatic Selenium driver management (recommended)
+# If not installed, drivers must be in PATH
+webdriver-manager
+
+# Undetected driver
+undetected_chromedriver
