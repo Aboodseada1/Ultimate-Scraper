@@ -37,8 +37,8 @@ A standalone Python script designed to scrape web pages using a multi-layered ap
 
 1. **Clone the repository or download the scripts:** Contains `ultimate_scraper.py` and optional profile creation scripts.
 2. ```bash
-   git clone <repository_url> # Replace with your actual repo URL
-   cd <repository_directory>
+   git clone https://github.com/Aboodseada1/Ultimate-Scraper
+   cd https://github.com/Aboodseada1/Ultimate-Scraper
    ```
 3. Or simply download the `ultimate_scraper.py` and `requirements.txt` files.
 4. **(Recommended)** Create and activate a Python virtual environment:
